@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+button{
+    margin-top: 20px;
+}
+canvas{
+    background-color: white;
+border-radius: 10px;
+border-width: 20px;
+border-style: ridge;
+border-color: steelblue;
+
+
+}
